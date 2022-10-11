@@ -11,5 +11,3 @@
 
 In this app we can see information about the price of Bitcoin today.
 
-
-### Demo linc
